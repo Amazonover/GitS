@@ -1,5 +1,5 @@
 GitS
 ====
 Dev
-fEature
+Feature
 New Dev
